@@ -1,0 +1,4 @@
+This program dynamically resizes an image by identifying the pixels that carry the least information and deleteing them. 
+This allows the user to resize a single dimension of the image without warping its conent.
+
+This program requires PIL to compile.
